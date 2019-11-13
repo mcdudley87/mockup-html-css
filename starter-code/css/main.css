@@ -1,0 +1,20 @@
+p {
+	color: red;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+	color: green;
+}
+
+h2 {
+	color: green;
+}
+
+nav a:link {
+	color: red;
+}
+
+a:visited {
+	color: blue;
+}
